@@ -2,7 +2,7 @@
 # Projeto User Github
 
 ## Sobre
-  O projeto tem como ideia mostrar dados do usuario do github que for buscado. Ele foi pensado para praticar metodologias de HTML/CSS, mas principalmente o uso de Javascript puro para integrações com API, no caso, a do proprio github. O projeto vem de um curso chamado Dev em Dobro, e essa é a etapa final para passar do JS avançado e começar a viajar pelo mundo das bibliotecas JS.
+  O projeto tem como objetivo fazer requisições da API do GitHub para exibir dados de usuários que forem buscados. Ele foi pensado para praticar metodologias de HTML/CSS, mas principalmente o uso de Javascript para integrações com API. 
 
 ## Tabela do conteúdo
 
@@ -36,10 +36,11 @@
  * HTML
  * CSS
  * JS
- * GIT
  * Integração com API
 
 ## Acessando o site
 
 Para acessar o site, clique no link abaixo:
-<a href= "" target= "_blank">Projeto User Github</a>
+<a href= "https://italo-maia.github.io/users-api-github/" target= "_blank">Projeto User Github</a>
+
+### Este projeto foi desenvolvido com ❤️ por **[@Italo Maia](https://www.linkedin.com/in/italo-barbosa-maia-8b98b822a/)**, com incentivo da escola de programação e mentoria **DEVQUEST** 💜. <br>
